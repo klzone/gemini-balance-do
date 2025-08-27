@@ -4,7 +4,8 @@
  */
 {
 	"$schema": "node_modules/wrangler/config-schema.json",
-	"name": "gemini-balance-do",
+	// wrangler.jsonc
+	"name": "geminibalance",
 	"main": "src/index.ts",
 	"compatibility_date": "2025-08-05",
 	"migrations": [
